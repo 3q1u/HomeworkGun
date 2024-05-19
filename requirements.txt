@@ -1,6 +1,6 @@
 cnocr[ort-cpu]
-flask
-keyboard
-toml
-psycopg2-binary
 zhipuai
+pyside6
+PySerial
+PySide6-Fluent-Widgets[full]
+pyinstaller
